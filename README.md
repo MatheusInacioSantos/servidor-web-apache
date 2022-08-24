@@ -10,7 +10,7 @@ Script de provisionamento de um servidor web Apache
 
 
 
-![Image bootcamp](Servidor web apache/img/linux.png)
+![Image bootcamp](img/linux.png)
 
 </div>
 
